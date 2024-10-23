@@ -1,6 +1,6 @@
 from turtle import *
 
-#This for loop draws the outer square, with side lengths of 100 pixels
+# This for loop draws the outer square, with side lengths of 100 pixels
 for i in range(4):
     forward(100)
     right(90)
